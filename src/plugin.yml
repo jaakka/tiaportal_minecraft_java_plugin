@@ -1,0 +1,60 @@
+name: TiaPortal
+version: 1.0
+author: JaakkaGames
+main: net.jaakkagames.tiaportal.main
+api-version: 1.19
+website: jaakkagames.net
+commands:
+  tiaportal:
+    description: Tiaportal, basic command.
+    usage: /tiaportal <second command> if empty shows help.
+    aliases: tia
+    permission: jaakkagames.tiaportal
+    subcommands:
+      test:
+        description: Test connection to NodeJs service.
+        usage: /tiaportal test
+        aliases: t
+        permission: jaakkagames.tiaportal.nodetest
+      logic:
+        subcommands:
+          tool:
+            description: Get logic tool
+            usage: /tiaportal logic tool
+            permission: jaakkagames.tieportal.tool
+          add:
+            description: Create new logic
+            usage: /tiaportal logic add <logic name> <ip>
+            aliases: a
+            permission: jaakkagames.tiaportal.logicadd
+          list:
+            description: List all added logics.
+            usage: /tiaportal logic list
+            aliases: l
+            permission: jaakkagames.tiaportal.logiclist
+          test:
+            description: Test connection to logic
+            usage: /tiaportal logic test <logic name>
+            aliases: t
+            permission: jaakkagames.tiaportal.logictest
+      io:
+        aliases: i
+        subcommands:
+          list:
+            description: Get list from real logic webserver.
+            usage: /tiaportal io list <logic name>
+            aliases: l
+            permission: jaakkagames.tiaportal.iolist
+          get:
+            subcommands:
+              input:
+                description: Get input block.
+                usage: /tiaportal io get input <logic> <io>
+              output:
+                description: Get output block.
+                usage: /tiaportal io get output <logic> <io>
+          add:
+            description: Add io from logic.
+            usage: /tiaportal io add <logic name> <io>
+            aliases: a
+            permission: jaakkagames.tiaportal.ioadd
