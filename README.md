@@ -1,5 +1,45 @@
 <h1>Siemens logic to minecraft</h1>
 
+#### Basic commands:
+Commands in minecraft server.  
+`` /tiaportal `` or `` /tia ``  
+if you run this command without subcommand, you get command list.
+  
+You can use subcommands  
+`` /tiaportal <subcommand> ``  
+  
+and here is subcommands...   
+
+Test minecraft server connection to nodejs service.  
+``/tiaportal test ``
+server test connection every time if you join the server.
+
+#### Logic commands:
+
+Add siemens logic to server.   
+``/tiaportal login add <LogicNameForMinecraft> <LogicWebserverIp> ``  
+You need start logic webserver before command.  
+You can add real or virtual logics from local network.
+
+Get list of added logics.   
+``/tiaportal logic list ``  
+
+
+
+
+Get tools for logics blocks 
+``/tiaportal logic tools ``  
+
+### Tools
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/c41e59c8-73a1-49bd-a555-db69e64d4617)
+  
+  With ``Fluke`` you can get block status and io name
+
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/41888130-434c-4205-ae39-e0f7e0cb30d4)
+  
+  With ``Logic tool`` you can get logic blocks with correct data.  
+if you broke without tool, data will lost.
+
 ### Minecraft tiaportal plugin v1 - factory test
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgkOpz_0OGI/0.jpg)](https://www.youtube.com/watch?v=vgkOpz_0OGI)
 
