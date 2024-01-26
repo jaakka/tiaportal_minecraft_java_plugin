@@ -24,6 +24,15 @@ You can add real or virtual logics from local network.
 Get list of added logics.   
 ``/tiaportal logic list ``  
 
+#### Logic io blocks commands:
+Add input for logic
+``/tiaportal io add output <LogicNameForMinecraft> <ioName>``  
+
+Add output for logic
+``/tiaportal io add input <LogicNameForMinecraft> <ioName>`` 
+
+Get logic io list
+Get io blocks for logic
 
 
 
