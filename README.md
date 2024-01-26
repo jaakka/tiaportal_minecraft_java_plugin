@@ -1,5 +1,13 @@
 <h1>Siemens logic to minecraft</h1>
 
+### Setup:
+I recommend to use this resource pack for this plugin to get full experiense.
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/884aa6b3-0dc0-484e-bc45-767d0024dee8)
+
+[Download resource pack for mc 1.20.4](https://github.com/jaakka/tiaporta_minecraft_java_plugin/files/14069900/tiaportal_plugin.zip)
+
+
+### In game & in use:
 #### Basic commands:
 Commands in minecraft server.  
 `` /tiaportal `` or `` /tia ``  
@@ -24,18 +32,6 @@ You can add real or virtual logics from local network.
 Get list of added logics.   
 ``/tiaportal logic list ``  
 
-#### Logic io blocks commands:
-Add input for logic
-``/tiaportal io add output <LogicNameForMinecraft> <ioName>``  
-
-Add output for logic
-``/tiaportal io add input <LogicNameForMinecraft> <ioName>`` 
-
-Get logic io list
-Get io blocks for logic
-
-
-
 Get tools for logics blocks 
 ``/tiaportal logic tools ``  
 
@@ -49,6 +45,40 @@ Get tools for logics blocks
   With ``Logic tool`` you can get logic blocks with correct data.  
 if you broke without tool, data will lost.
 
+
+#### Logic io blocks commands:
+Add input for logic
+``/tiaportal io add output <LogicNameForMinecraft> <ioName>``  
+
+Add output for logic
+``/tiaportal io add input <LogicNameForMinecraft> <ioName>`` 
+
+Warning: ioName = Logic-io-Name , or you can use io address from siemens logic.
+
+Get logic io-list
+``/tiaportal io list <LogicNameForMinecraft> ``
+Get io-list for logic.
+
+Get io blocks for logic
+``/tiaportal io get blocks <LogicNameForMinecraft> ``
+
+You get all added io for this logic to inventory.
+
+In this image i added two outputs and tree inputs:
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/e76af808-a2d0-47b8-aa29-d5d1d824fec7)
+
+#### if you dont want all io blocks, You can use:
+Get one output block
+``/tiaportal io get blocks <LogicNameForMinecraft> <ioName>``
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/38df201f-c4e6-49c7-91e8-53b30bef74e6)
+
+
+Get one input block
+``/tiaportal io get blocks <LogicNameForMinecraft> <ioName> ``
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/ac94ab8b-0f81-402d-ac8c-283d9178fb23)
+
+
+## Some testing videos
 ### Minecraft tiaportal plugin v1 - factory test
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgkOpz_0OGI/0.jpg)](https://www.youtube.com/watch?v=vgkOpz_0OGI)
 
