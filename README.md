@@ -3,8 +3,27 @@
 ### Setup:
 
 You need install node js for your computer where you host mc-server.
-In this version you need run this service same device than mc-server.
-![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/c8026138-18c8-4050-98ea-12a8e076f204)
+In this version you need run this service same device than mc-server.  
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/2e537fdd-9661-4b32-b519-0ce3fc62d462)
+
+You need install these libraries for nodejs:  
+
+I used on my pc:  
+npm version: 10.2.5  
+nodejs version: 20.10.7  
+  
+
+  ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/54acc353-1ddd-4018-880b-927653ed36e8)
+
+  
+ws / websocket library version : 8.16.0
+
+  
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/d6c59ef4-9680-4fad-8fc9-994161e93011)  
+  
+  puppeteer library version : 21.7.0
+
+  ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/787cf45d-d9f7-4207-97cf-961cd7ed3c68)
 
 
 
