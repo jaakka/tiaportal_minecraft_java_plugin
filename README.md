@@ -1,10 +1,19 @@
 <h1>Siemens logic to minecraft</h1>
 
 ### Setup:
-I recommend to use this resource pack for this plugin to get full experiense.
+I recommend to use this resource pack for this plugin to get full experiense.  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/884aa6b3-0dc0-484e-bc45-767d0024dee8)
 
 [Download resource pack for mc 1.20.4](https://github.com/jaakka/tiaporta_minecraft_java_plugin/files/14069900/tiaportal_plugin.zip)
+
+  
+For this example tiaportal project, webserver username and password 
+  what you need in minecraft is admin and Password2024
+  
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/ac9b0afc-9a39-4cb4-a103-7fce32648850)  
+[exampleprojectfortiaportal18_zap.zip](https://github.com/jaakka/tiaporta_minecraft_java_plugin/files/14069941/exampleprojectfortiaportal18_zap.zip)
+Before you try add logic to minecraft, test it first with your browser.   if it works, its open logic remote controll panel.
+
 
 
 ### In game & in use:
