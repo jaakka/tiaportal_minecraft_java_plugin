@@ -25,7 +25,8 @@ ws / websocket library version : 8.16.0
 
   ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/787cf45d-d9f7-4207-97cf-961cd7ed3c68)
 
-
+This code communicate with mc-server and logic remote page.  
+[Download nodejs helper](https://github.com/jaakka/tiaporta_minecraft_java_plugin/files/14069900/tiaportalservice.js)
 
 I recommend to use this resource pack for this plugin to get full experiense.  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/884aa6b3-0dc0-484e-bc45-767d0024dee8)
