@@ -3,7 +3,14 @@
 ### Minecraft tiaportal plugin v1 - factory test
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgkOpz_0OGI/0.jpg)](https://www.youtube.com/watch?v=vgkOpz_0OGI)
 
+### Minecraft tiaportal plugin testing v00003 working in & out
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TU8-NgXsraQ/0.jpg)](https://www.youtube.com/watch?v=TU8-NgXsraQ)
 
+### Tiaportal plugin for minecraft v0000004 & texturepack
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NGNyPkQIfpA/0.jpg)](https://www.youtube.com/watch?v=NGNyPkQIfpA)
+
+### Tiaportal plugin for minecraft v0000003 & texturepack
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rE5Qsaq6u_g/0.jpg)](https://www.youtube.com/watch?v=rE5Qsaq6u_g)
 
 ### Minecraft tiaportal plugin dev v0000002
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TxTMIjJDcBU/0.jpg)](https://www.youtube.com/watch?v=TxTMIjJDcBU)
