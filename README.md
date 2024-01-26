@@ -1,6 +1,13 @@
 <h1>Siemens logic to minecraft</h1>
 
 ### Setup:
+
+You need install node js for your computer where you host mc-server.
+In this version you need run this service same device than mc-server.
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/c8026138-18c8-4050-98ea-12a8e076f204)
+
+
+
 I recommend to use this resource pack for this plugin to get full experiense.  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/884aa6b3-0dc0-484e-bc45-767d0024dee8)
 
