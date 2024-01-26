@@ -18,15 +18,29 @@ nodejs version: 20.10.7
   
 ws / websocket library version : 8.16.0
 
+
+  install command:  
+  
+``npm install ws``  
+
   
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/d6c59ef4-9680-4fad-8fc9-994161e93011)  
   
   puppeteer library version : 21.7.0
 
+install command:  
+  
+``npm install puppeteer``  
+
   ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/787cf45d-d9f7-4207-97cf-961cd7ed3c68)
 
 This code communicate with mc-server and logic remote page.  
 [Download nodejs helper](https://github.com/jaakka/tiaporta_minecraft_java_plugin/blob/master/tiaportalservice.js)
+
+run this code with command:  
+
+(in same folder, run libraries intall commands in same folder)  
+``node tiaportalservice.js``  
 
 I recommend to use this resource pack for this plugin to get full experiense.  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/884aa6b3-0dc0-484e-bc45-767d0024dee8)
@@ -100,17 +114,20 @@ Get io blocks for logic
 
 You get all added io for this logic to inventory.
 
-In this image i added two outputs and tree inputs:
+In this image i added two outputs and tree inputs:  
+  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/e76af808-a2d0-47b8-aa29-d5d1d824fec7)
 
 #### if you dont want all io blocks, You can use:
-Get one output block
+Get one output block  
 ``/tiaportal io get blocks <LogicNameForMinecraft> <ioName>``
+  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/38df201f-c4e6-49c7-91e8-53b30bef74e6)
 
 
-Get one input block
+Get one input block  
 ``/tiaportal io get blocks <LogicNameForMinecraft> <ioName> ``
+  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/ac94ab8b-0f81-402d-ac8c-283d9178fb23)
 
 
