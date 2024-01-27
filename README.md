@@ -74,6 +74,9 @@ run this code with command:
 (in same folder, run libraries intall commands in same folder)  
 ``node tiaportalservice.js``  
 
+This is server plugin for mc 1.20.4    
+[Download nodejs helper](https://github.com/jaakka/tiaporta_minecraft_java_plugin/blob/master/tiaportal.jar)
+
 I recommend to use this resource pack for this plugin to get full experiense.  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/884aa6b3-0dc0-484e-bc45-767d0024dee8)
 
