@@ -3,7 +3,19 @@
 With this add-on you can connect automation logic to your minecraft factory and can control it like a real factory. I'm an automation engineering student and I've programmed this kind of logic, so I got the idea to use it to control minecraft
 This plugin supports many logics and since this is a server plugin you can also use this with other players and they too can add their own logic. however, this requires that the logics are in the same network
 
+## Warning!
+
+## Test factory video (Click to open yt)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgkOpz_0OGI/0.jpg)](https://www.youtube.com/watch?v=vgkOpz_0OGI)    
+in this video you can see logic realtime status from this:   
+  ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/492b7933-fc50-4b7f-b851-c62d691a5b71)
+
 ### How its works?
+
+Nodejs code create local websocket server and minecraft plugin connect to nodejs code. After this minecraft sends commands and logic add command ask open new window in "browser" and it open "logic remote controll panel" and automacally login with account. After this it only wait value changes.
+
+![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/15fa4778-a1ea-45b3-8a07-0740317c58fd)
+
 
 ### Setup:
 
@@ -148,6 +160,7 @@ Get one input block
   
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/ac94ab8b-0f81-402d-ac8c-283d9178fb23)
 
+Remember subscribe my yt.
 
 ## Some testing videos
 ### Minecraft tiaportal plugin v1 - factory test
