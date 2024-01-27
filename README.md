@@ -2,6 +2,15 @@
 
 ### Setup:
 
+#### steps in nut cover:
+1. Download nodejs - this can run javascript "on your desktop"
+2. Create folder for "logic communicate helper application"
+3. Run cmd in folder and install libraries with ``npm install``
+4. Download tiaportalservice.js
+5. Now you can start service with cmd ``node tiaportalservice.js`` but not yet.
+6. 
+
+
 You need install node js for your computer where you host mc-server.
 In this version you need run this service same device than mc-server.  
 ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/2e537fdd-9661-4b32-b519-0ce3fc62d462)
