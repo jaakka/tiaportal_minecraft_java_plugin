@@ -3,12 +3,14 @@
 With this add-on you can connect automation logic to your minecraft factory and can control it like a real factory. I'm an automation engineering student and I've programmed this kind of logic, so I got the idea to use it to control minecraft
 This plugin supports many logics and since this is a server plugin you can also use this with other players and they too can add their own logic. however, this requires that the logics are in the same network
 
-## Warning!
-
 ## Test factory video (Click to open yt)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgkOpz_0OGI/0.jpg)](https://www.youtube.com/watch?v=vgkOpz_0OGI)    
 in this video you can see logic realtime status from this:   
   ![image](https://github.com/jaakka/tiaporta_minecraft_java_plugin/assets/25456491/492b7933-fc50-4b7f-b851-c62d691a5b71)
+
+## Warning! you need siemens tiaportal v18 license... (not free)
+So this project is mainly aimed at automation installers and engineers.
+Maybe later i make other "control source" project
 
 ### How its works?
 
