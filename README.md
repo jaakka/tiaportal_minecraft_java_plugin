@@ -1,4 +1,9 @@
-<h1>Siemens logic to minecraft</h1>
+# Siemens logic to minecraft
+### Welcome:
+With this add-on you can connect automation logic to your minecraft factory and can control it like a real factory. I'm an automation engineering student and I've programmed this kind of logic, so I got the idea to use it to control minecraft
+This plugin supports many logics and since this is a server plugin you can also use this with other players and they too can add their own logic. however, this requires that the logics are in the same network
+
+### How its works?
 
 ### Setup:
 
