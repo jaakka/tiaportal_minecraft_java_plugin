@@ -7,8 +7,12 @@
 2. Create folder for "logic communicate helper application"
 3. Run cmd in folder and install libraries with ``npm install``
 4. Download tiaportalservice.js
-5. Now you can start service with cmd ``node tiaportalservice.js`` but not yet.
-6. 
+5. Now you can start service with cmd ``node tiaportalservice.js`` 
+6. Before that create delicated minecraft server, i used "paper" for 1.20.4
+7. Download my tiaportal plugin for server
+8. if tiaportalservice.js running you can start server. You can manually connect to service with mc-command  ``/tiaportal reconnect``
+9. remember start logic simulator or logic and test webpage before you try add to logic this.
+10. Enjoy
 
 
 You need install node js for your computer where you host mc-server.
