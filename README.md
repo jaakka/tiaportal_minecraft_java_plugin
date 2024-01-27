@@ -3,6 +3,8 @@
 With this add-on you can connect automation logic to your minecraft factory and can control it like a real factory. I'm an automation engineering student and I've programmed this kind of logic, so I got the idea to use it to control minecraft
 This plugin supports many logics and since this is a server plugin you can also use this with other players and they too can add their own logic. however, this requires that the logics are in the same network
 
+The main purpose of this project was to practice java coding. If you liked this project i hope u check my other projects in [my yt channel](https://youtube.com/jaakko2012).
+
 ## Test factory video (Click to open yt)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vgkOpz_0OGI/0.jpg)](https://www.youtube.com/watch?v=vgkOpz_0OGI)    
 in this video you can see logic realtime status from this:   
